@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    color: blue;
+    background-color: rgb(228, 247, 252);
+}
+header{
+background-color:blue;
+color: white;
+padding: 10px;
+}
+h2{
+ color: aqua;   
+
+}
+
+h1{
+    text-align: center;
+    border: 2px solid greenyellow;
+}
+footer p{
+  border: 10px solid pink;
+}
+
+
+
+header a{
+  background-color:black;
+  color:cornflowerblue;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+
+
+
+}
+
+nav{
+  margin: 20px;
+}
+nav a {
+background-color: cornflowerblue
+;color: black;
+border-radius: 10px;
+margin: 10px;
+  padding: 10px;
+}
